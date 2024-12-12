@@ -1,0 +1,7 @@
+dependencies {
+    implementation 'com.google.firebase:firebase-database:20.2.2'
+    implementation 'com.google.firebase:firebase-messaging:24.2.0'
+}
+
+// Apply the Google Services plugin
+apply plugin: 'com.google.gms.google-services'
